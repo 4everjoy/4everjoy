@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @4everjoy
-- 👀 I’m interested in learning new skill
+- 👀 I’m interested in learning a new skill
 - 🌱 I’m currently learning HTML and CSS, 
-- 💞️ I’m looking to collaborate on project and new ideas
-- 📫 How to reach me 07065796187
+- 💞️ I’m looking to collaborate on projects and new ideas
+- 📫 How to reach me olusola.titilayo2020@gmail.com
 
 <!---
 4everjoy/4everjoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
