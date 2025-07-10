@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olugbuyi O. Titilayo Esther
 - 👀 I’m interested in learning a new skill
-- 🌱 I’m currently learning HTML and CSS and Data Analysis
+- 🌱 I’m currently learning HTML, CSS and Data Analysis
 - 💞️ I’m looking to collaborate on projects and new ideas
 - 📫 How to reach me olusola.titilayo2020@gmail.com or olusola.titilayo@yahoo.com
 - Linkedin https://www.linkedin.com/in/olugbuyi-titilayo-3540b0110
